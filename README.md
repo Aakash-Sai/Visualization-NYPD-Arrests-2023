@@ -1,1 +1,2 @@
-# Visualization-NYPD-Arrests-2023
+## Overview
+This is a data visualization I created to analyze demographics & offences in NYPD Arrests. I plan to use the [NYPD Arrest data](https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc) of 2023 for this project.  My target audience could range from policymakers and law enforcement agencies, seeking patterns to enhance public safety, to researchers and journalists investigating social and demographic trends within the criminal justice system.
